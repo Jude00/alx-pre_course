@@ -1,2 +1,2 @@
 My first readme
-README for github collaboration
+README for github.com collaboration
